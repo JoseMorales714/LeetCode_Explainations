@@ -16,7 +16,7 @@ class Solution {
                 que.add(i);
                 // 3...4...5...
             }
-            if (que.size() == k + 1) { // needs 3
+            if (que.size() == k + 1) {
 
                 System.out.println("queue-> " + que);
 
