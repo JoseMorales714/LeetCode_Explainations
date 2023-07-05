@@ -1,3 +1,5 @@
+package sliding_window;
+
 class Solution {
     public double findMaxAverage(int[] nums, int k) {
 
