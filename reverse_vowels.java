@@ -18,7 +18,8 @@ class Solution {
         int counter = 0;
 
         // this for loops will check for any and all vowels again
-        // if true then will append to our string wit current char at the next inde
+        // if true then will append to our string with current char at the next index of
+        // reversed string
         // else will append to our string at current index
         for (char x : s.toCharArray()) {
             if ((x == 'a' || x == 'e' || x == 'i' || x == 'o' || x == 'u' || x == 'A'
